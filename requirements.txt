@@ -1,0 +1,12 @@
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+string
+unidecode
+nltk
+pytest
+pylint
+ipdb
+jupyterlab
+
